@@ -1,0 +1,21 @@
+# preferably updated versions
+
+torch
+torchvision
+torchaudio
+pydub
+simpleaudio
+gtts
+ultralytics
+pyttsx3
+timm
+gTTS
+googletrans
+torch
+os
+numpy
+collections
+matplotlib
+matplotlib.patches
+cv2
+defaultdict
