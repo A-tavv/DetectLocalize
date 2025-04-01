@@ -1,8 +1,5 @@
-# Seeing with Sound!
-<<<<<<< HEAD
-Seeing with Sound : Object detection and localization with YOLOv8  and audio feedback for blind individuals
+Seeing with Sound : Object detection and localization by YOLOv8 and audio feedback for blind individuals
 =======
-## Object detection and localization with YOLOv8  and audio feedback for blind individuals
 <a href='https://scholar.google.com/citations?user=ppLQZf0AAAAJ&hl=it&authuser=3'><img src='https://img.shields.io/badge/Paper-Page-green'></a>
 ---
 ### Object detection is a challenging Computer Vision (CV) application, particularly for assisting blind individuals. With the rapid advancement of Deep Learning (DL), algorithms like Convolutional Neural Network (CNN) have significantly improved video analysis and image understanding for this purpose. Blind individuals face substantial challenges when navigating indoor or outdoor environments, underscoring the pressing need for assistive technologies.
@@ -15,5 +12,3 @@ Seeing with Sound : Object detection and localization with YOLOv8  and audio fee
 <img src='https://github.com/user-attachments/assets/7b980ee2-149b-4b67-89ee-7b6856dc6fcb' width = '500' align= "right">
 <img src='https://github.com/user-attachments/assets/23bf9841-fc0b-4019-8794-28e1e03aad30' width = '400' align="left">
 <img src='https://github.com/user-attachments/assets/36fe38e8-77ba-47b0-ad8e-efbbb355a838' width = '500'>
-
->>>>>>> 104b6fd (Update README.md)
